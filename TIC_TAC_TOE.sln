@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIC_TAC_TOE", "TIC_TAC_TOE.csproj", "{DCE967D0-E18C-4C40-BDC7-4579AD438D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE967D0-E18C-4C40-BDC7-4579AD438D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE967D0-E18C-4C40-BDC7-4579AD438D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE967D0-E18C-4C40-BDC7-4579AD438D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE967D0-E18C-4C40-BDC7-4579AD438D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
