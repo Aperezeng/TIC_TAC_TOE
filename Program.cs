@@ -1,9 +1,15 @@
 ﻿using System;
+using TIC_TAC_TOE;
 
 internal class Program
 {
     public static void Main(string[] args)
     {
+        UI_Methods.DisplayWelcomeMessage();
+        UI_Methods.DisplayPlayersNumberChoice();
+        UI_Methods.EnterPlayersNumber();
+        UI_Methods.DisplaySymbolChoices();
+        UI_Methods.EnterSymbol();
         int ROWS = 3;
         int COLUMNS = 3;
         int[,] gameBoard = new int[ROWS, COLUMNS];
@@ -19,6 +25,8 @@ internal class Program
         }
         Console.WriteLine(horizontalBorder);
     }
+    
+    
 }
 
 
