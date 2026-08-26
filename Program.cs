@@ -23,7 +23,6 @@ internal class Program
                 Console.WriteLine(verticalBorder);
             }
         }
-
         Console.WriteLine(horizontalBorder);
     }
 }
